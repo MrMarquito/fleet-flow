@@ -1,0 +1,13 @@
+{
+  "name": "fleet-flow-hono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.11.2",
+    "hono": "^4.4.7",
+    "ws": "^8.17.1"
+  }
+}
